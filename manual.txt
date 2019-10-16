@@ -1,0 +1,42 @@
+Create project
+-  $npm init
+
+register
+-  $npm adduser
+
+go to email to verify
+
+login
+-  $npm login
+
+to check id
+- $npm whoami
+
+to check version npm
+- $npm -v
+- $npm version
+
+put to npm package
+- $npm publish
+
+check package
+-   https://www.npmjs.com/
+
+install
+-   $npm install meenpm-first-package
+
+how to use
+-    const {areasquare, areacircle} = require('meenpm-first-package')
+
+update npm package
+-  $npm version 1.0.1  
+-  $npm publish 
+
+======================
+package.json
+
+make sure that your package name is uquie
+
+"name": "meenpm-first-package"
+
+===================
